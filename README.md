@@ -23,37 +23,33 @@ I'm **Jaisvin Kaur**, a third-year Computer Science Engineering student with an 
 
 ### 💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js" />
-</p>
+[![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 
-### 🌐 Frontend
+### 🌐 Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ejs" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman" />
-</p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=flat-square&logo=express&logoColor=white)](#)
 
 ### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
 
-### 🧠 Computer Science
+### 🧠 Core CS
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
-</p>
+[![DSA](https://img.shields.io/badge/DSA-FF6F00?style=flat-square&logo=leetcode&logoColor=white)](#)
+[![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=databricks&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
+
+### 🛠️ Tools
+
+[![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 
 ---
 

@@ -122,13 +122,3 @@ Currently Exploring
 [ ] Secure a Software Development / Full Stack internship
 ```
 
----
-
-## `$ git status`
-
-```text
-Learning................. ✓
-Coding................... ✓
-Building................. ✓
-Improving................ ✓
-```
